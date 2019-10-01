@@ -1,0 +1,6 @@
+# OS generated files #
+######################
+.DS_Store
+
+# large files 
+mBGCArchive/input/HMP-1-1-quantifier-filtered.txt
